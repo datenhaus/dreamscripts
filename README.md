@@ -1,11 +1,45 @@
 # DreamScripts by DreamStudios
 
-**Lua scripts for ESX roleplay servers – with their own interfaces, open configuration and server-side checks.**
-One script is free with full source code. Seven premium scripts are in their final checks.
+**Lua scripts for roleplay servers – with their own interfaces, open configuration and server-side checks.**
+Four premium scripts are now on Tebex. One script stays free with full source code.
 
 [![Download Dream Notify - free](https://img.shields.io/badge/Download-Dream_Notify_%28free%29-F5C400?style=for-the-badge)](https://github.com/datenhaus/dream_notify) [![Discord](https://img.shields.io/badge/Discord-Join_us-5865F2?style=for-the-badge)](https://discord.gg/2cAK4XMzSe) [![YouTube](https://img.shields.io/badge/YouTube-Trailers-FF0000?style=for-the-badge)](https://www.youtube.com/@DreamStudiosScripts)
 
-> This repository is a **catalog**. The free script lives in [dream_notify](https://github.com/datenhaus/dream_notify). Premium scripts will be sold in our store (opening soon). All images show a UI preview with sample data.
+> This repository is a **catalog**. The free script lives in [dream_notify](https://github.com/datenhaus/dream_notify). Premium scripts are sold on Tebex. All images show a UI preview with sample data.
+
+**Store:** `dreamscripts.tebex.store` – the store is still in Tebex's review. Store link coming with Tebex approval; the announcement comes on [Discord](https://discord.gg/2cAK4XMzSe) first.
+
+**New video:** [6 scripts to level up your roleplay server](https://youtu.be/QcBy2JHxEd8)
+
+---
+
+## Premium – on Tebex
+
+| | |
+|---|---|
+| [![Dream Cards](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_cards.jpg)](#dream-cards) | [![Dream Billing](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_billing.jpg)](#dream-billing) |
+| [![Dream Adminjail](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_adminjail.jpg)](#dream-adminjail) | [![Dream Scoreboard](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_scoreboard.jpg)](#dream-scoreboard) |
+
+| Script | Price | Framework |
+|---|---|---|
+| [Dream Cards](#dream-cards) | €44.99 | ESX |
+| [Dream Billing](#dream-billing) | €14.99 | ESX Legacy + oxmysql |
+| [Dream Adminjail](#dream-adminjail) | €7.99 | ESX Legacy · Standalone · QBCore/Qbox (beta), detected automatically |
+| [Dream Scoreboard](#dream-scoreboard) | €5.99 | ESX Legacy · Standalone · QBCore/Qbox (beta), detected automatically |
+
+Premium scripts are escrow-protected. `config.lua` and the locale files stay open, so you can change settings and texts.
+
+### Dream Cards
+A trading card game for your city: booster packs, an album, decks, duels and holo cards.
+
+### Dream Billing
+Job and private invoices with late fees and an overview for bosses.
+
+### Dream Adminjail
+Admin jail with a clean panel, time presets, reason templates, a live countdown and searchable logs.
+
+### Dream Scoreboard
+A city overview: players online, jobs on duty and the next restart.
 
 ---
 
@@ -22,19 +56,7 @@ Notifications and announcements for your roleplay server. Four toast types, six 
 
 | | |
 |---|---|
-| [![Dream Cards](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_cards.jpg)](#dream-cards) | [![Dream Adminjail](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_adminjail.jpg)](#dream-adminjail) |
-| [![Dream Billing](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_billing.jpg)](#dream-billing) | [![Dream Moneywash](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_moneywash.jpg)](#dream-moneywash) |
-| [![Dream Elevator](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_elevator.jpg)](#dream-elevator) | [![Dream Fireworks](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_fireworks.jpg)](#dream-fireworks) |
-| [![Dream Scoreboard](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_scoreboard.jpg)](#dream-scoreboard) | |
-
-### Dream Cards
-A trading card game for your city: booster packs, an album, decks, duels and holo cards.
-
-### Dream Adminjail
-Admin jail with a clean panel, time presets, reason templates, a live countdown and searchable logs.
-
-### Dream Billing
-Job and private invoices with late fees and an overview for bosses.
+| [![Dream Moneywash](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_moneywash.jpg)](#dream-moneywash) | [![Dream Elevator](https://github.com/datenhaus/dreamscripts/raw/main/previews/dream_elevator.jpg)](#dream-elevator) |
 
 ### Dream Moneywash
 Rotating wash spots with heat and reputation levels, made for crime roleplay.
@@ -42,11 +64,11 @@ Rotating wash spots with heat and reputation levels, made for crime roleplay.
 ### Dream Elevator
 Elevators and vehicle lifts with a floor panel, set up with an in-game editor.
 
-### Dream Fireworks
-Synced fireworks as usable items, with sound that depends on distance.
+### Dream HUD
+In the works.
 
-### Dream Scoreboard
-A city overview: players online, jobs on duty and the next restart.
+### Dream Report
+In the works.
 
 ---
 
@@ -57,7 +79,7 @@ A city overview: players online, jobs on duty and the next restart.
 - Automated code checks and UI previews before every release
 
 ## Questions, ideas, bug reports
-Join the [Discord](https://discord.gg/2cAK4XMzSe). Want to know when the store opens? The announcement comes there first.
+Join the [Discord](https://discord.gg/2cAK4XMzSe) or follow [@zatoTVreal](https://x.com/zatoTVreal). Want to know when the store opens? The announcement comes on Discord first.
 
 ---
 Made by [DreamStudios](https://github.com/datenhaus) – one human sets the direction, a team of AI agents builds. Built with AI assistance.
